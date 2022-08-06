@@ -1,8 +1,6 @@
  ## Koding interview
-Berikut adalah contoh soal-soal 'Koding interview' yang biasa diujikan oleh beberapa perusahaan
-ataupun startup It pada calon pekerjannya. 
 
-semoga bermanfaat :D
+Repository ini dibuat dengan referensi utama dari https://github.com/nino-t/Soal-Koding-Interview.git
 
 #### Array Coding Interview Questions
 
@@ -52,29 +50,18 @@ semoga bermanfaat :D
 #### Binary Tree Coding Interview Questions
 
 1. How is a binary search tree implemented?
-
 2. How do you perform preorder traversal in a given binary tree?
-
 3. How do you traverse a given binary tree in preorder without recursion? 
-
 4. How can a given string be reversed using recursion?
-
 5. How do you perform an inorder traversal in a given binary tree?
-
 6. How do you print all nodes of a given binary tree using inorder traversal without recursion?
-
 7. How do you implement a postorder traversal algorithm?
-
 8. How do you traverse a binary tree in postorder traversal without recursion?
-
 9. How are all leaves of a binary search tree printed?
-
 10. How do you count a number of leaf nodes in a given binary tree?
-
 11. How do you perform a binary search in a given array?
 
     
-
 #### Miscellaneous Coding Interview Questions
 
 1. How is a bubble sort algorithm implemented?
@@ -88,6 +75,14 @@ semoga bermanfaat :D
 9. How do you check if two rectangles overlap with each other?
 10. How do you design a vending machine?
 
+
+## Reference
+
+- Main reference : https://github.com/nino-t/Soal-Koding-Interview.git
+
+- Data structure in Golang : https://medium.com/@victorsteven/understanding-data-structures-in-golang-f55205afdcaa#:~:text=%20Understanding%20Data%20Structures%20in%20Golang%20%201,refer%20to%20an%20element.%20This%20is...%20More%20
+
+- Map and Struct in Golang : https://www.geeksforgeeks.org/golang-program-that-uses-structs-as-map-keys/#:~:text=In%20maps%2C%20most%20of%20the%20data%20types%20can,fields%20of%20different%20types%20into%20a%20single%20type.
 
 
 ## MIT Licensed

@@ -1,0 +1,2 @@
+Abstraksi merupakan penerapan dari enkapsulasi.
+Jadi user hanya sebatas tahu operasi suatu class, tanpa mengetahui detail operasinya.
